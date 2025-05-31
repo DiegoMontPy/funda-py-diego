@@ -7,6 +7,17 @@ Original file is located at
     https://colab.research.google.com/drive/1bDQna2JQhtIoxIuw7RL5c05CVuJksn96
 """
 
+'''
+Clase:        Tarea 1
+Tema:         bucles
+Ejercicio:    1.3.2
+Descripcion:  Usando un bucle para adivinar un numero secreto
+
+Autor:        Diego Emilio Garcia Montano
+Fecha:        2025-05-31
+Estado:       [Terminado]
+'''
+
 nombre = input("Ingresa tu nombre completo: ")
 
 nombre_separado = nombre.split()
