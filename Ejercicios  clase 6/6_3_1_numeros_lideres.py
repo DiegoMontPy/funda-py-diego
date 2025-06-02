@@ -10,11 +10,11 @@ Original file is located at
 '''
 Clase:        9
 Tema:         Listas
-Ejercicio:    6.2.1
-Descripcion:  Usando el set se ocupa para no repetir los numeros, los cuales se convierten
+Ejercicio:    6.3.1
+Descripcion:  se listan los numeros que son mayores a los que estan a su derecha
 
 Autor:        Diego Emilio Garcia Montano
-Fecha:        2025-05-30
+Fecha:        2025-06-01
 Estado:       [Terminado]
 '''
 numeros = input().split()
