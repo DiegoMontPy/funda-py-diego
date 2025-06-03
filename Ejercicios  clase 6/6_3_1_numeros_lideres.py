@@ -8,7 +8,7 @@ Original file is located at
 """
 
 '''
-Clase:        9
+Clase:        6
 Tema:         Listas
 Ejercicio:    6.3.1
 Descripcion:  se listan los numeros que son mayores a los que estan a su derecha

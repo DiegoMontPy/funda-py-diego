@@ -8,7 +8,7 @@ Original file is located at
 """
 
 '''
-Clase:        Tarea 8
+Clase:        Clase 5
 Tema:         bucles
 Ejercicio:    5.4.
 Descripcion:  Usando un bucle sumar los digitos de un numero

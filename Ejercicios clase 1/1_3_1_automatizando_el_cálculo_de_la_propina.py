@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dOwMjTVoVhhXS5IuCRkx38_nsQ7izujA
 """
 '''
-Clase:        Tarea 1
+Clase:        1
 Tema:         
 Ejercicio:    1.3.1
 Descripcion:  

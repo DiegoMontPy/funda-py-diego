@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KQ68gLi4lf5fN6BsmRfkylPjbkEkgLiN
 """
 '''
-Clase:        9
+Clase:        6
 Tema:         Listas
 Ejercicio:    6.2.1
 Descripcion:  Usando el set se ocupa para no repetir los numeros, los cuales se convierten

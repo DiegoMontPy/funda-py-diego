@@ -8,7 +8,7 @@ Original file is located at
 """
 
 '''
-Clase:        Tarea 8
+Clase:        5
 Tema:         bucles
 Ejercicio:    5.4.1
 Descripcion:  Usando un bucle para adivinar un numero secreto
